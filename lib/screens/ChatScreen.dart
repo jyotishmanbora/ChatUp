@@ -318,7 +318,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                     'Content-Type':
                                         'application/json; charset=UTF-8',
                                     'Authorization':
-                                        'key=AAAAGkpLPtY:APA91bEVTXsIhpsEmkmSS-pQz1jojQNso-15jXZT_GZtgRoJMw9C5zWRoaELvf6i_8naS8-kcsk63pQriJk9baCJD_9niiHiVI3srT6ahB3SKF5zeoKBaT2FQRk39HIS7WnZEbNoISSs',
+                                        'key=add proper key',
                                   },
                                   body: jsonEncode({
                                     'to': personInfo['token'],
